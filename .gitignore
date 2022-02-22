@@ -10,6 +10,7 @@
 
 # production
 /build
+/cors-anywhere
 
 # misc
 .DS_Store

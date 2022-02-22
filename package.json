@@ -1,7 +1,7 @@
 {
   "name": "eCommerce",
   "version": "0.1.0",
-  "homepage": "https://igorsantos13.github.io/reactjs-ecommerce",
+  "homepage": "https://igorsantos13.github.io/reactjs-ecommerce/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.1",
